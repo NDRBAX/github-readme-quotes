@@ -10,7 +10,7 @@ const themes = {
     quote: '9f9f9f',
     author: 'fff',
     background: 'ff',
-    symbol: 'ff'
+    symbol: '7eff00'
   },
   "chartreuse-dark": {
     quote: 'fff',
