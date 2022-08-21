@@ -19,7 +19,7 @@ const renderVertical = ({ quote, author, color }) => {
     align-items:center;
     justify-content:center;
     text-align:center;
-    border: 0;
+    border: none;
   }
   .container h3::before{
     content: open-quote;
