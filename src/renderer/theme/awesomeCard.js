@@ -3,7 +3,7 @@ const themes = {
   light: {
     quote: '333',
     author: '2f80ed',
-    background: 'fffefe',
+    background: 'ff',
     symbol: '4c71f2'
   },
   dark: {
@@ -15,55 +15,55 @@ const themes = {
   "chartreuse-dark": {
     quote: 'fff',
     author: '7fff00',
-    background: '000',
+    background: 'ff',
     symbol: '00AEFF'
   },
   radical: {
     quote: 'a9fef7',
     author: 'fe428e',
-    background: '141321',
+    background: 'ff',
     symbol: 'f8d847'
   },
   merko: {
     quote: '68b587',
     author: 'abd200',
-    background: '0a0f0b',
+    background: 'ff',
     symbol: 'b7d364'
   },
   gruvbox: {
     quote: '8ec07c',
     author: 'fabd2f',
-    background: '282828',
+    background: 'ff',
     symbol: 'fe8019'
   },
   tokyonight: {
     quote: '38bdae',
     author: '70a5fd',
-    background: '1a1b27',
+    background: 'ff',
     symbol: 'bf91f3'
   },
   catppuccin: {
     quote: '96CDFB',
     author: 'D9E0EE',
-    background: '161320',
+    background: 'ff',
     symbol: 'DDB6F2'
   },
   algolia: {
     quote: '00ADFE',
     author: 'FEFEFE',
-    background: '050F2C',
+    background: 'ff',
     symbol: '26BB85'
   },
   monokai: {
     quote: 'EA1F6A',
     author: 'CFCFC9',
-    background: '272822',
+    background: 'ff',
     symbol: 'E18905'
   },
   dracula: {
     quote: 'F8F8F2',
     author: '6272A4',
-    background: '282A36',
+    background: 'ff',
     symbol: 'FF79c6'
   },
 };
