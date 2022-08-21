@@ -19,7 +19,7 @@ const renderVertical = ({ quote, author, color }) => {
     align-items:center;
     justify-content:center;
     text-align:center;
-    border: 1px solid rgba(0,0,0,0.1);
+    border: 0px solid rgba(0,0,0,0.1);
     border-radius: 10px;
   }
   .container h3::before{
